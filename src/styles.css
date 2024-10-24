@@ -1,0 +1,96 @@
+/* Add application styles & imports to this file! */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+  background-color: rgb(219, 93, 114);
+  border: 1px solid white;
+  border-radius: 2px;
+  padding: 5px 15px;
+  color: white;
+  margin: 5px;
+}
+
+input {
+  margin: 10px 0px;
+  margin-left: 10px;
+  background-color: #202020;
+  color: white;
+  border: 1px solid #dbdbdb;
+  border-radius: 2px;
+}
+
+span {
+  color: palevioletred;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+/* Add application styles & imports to this file! */
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(221, 169, 186);
+}
+a:hover {
+  color: rgb(219, 93, 114);
+}
+.link {
+  display: flex;
+  align-items: center;
+}
+
+body {
+  background-color: #101010;
+  color: white;
+  padding: 50px;
+}
+
+span {
+  margin-right: 5px;
+}
+
+b {
+  color: palevioletred;
+}
+
+table {
+  border: 1px solid white;
+  padding: 10px;
+}
+
+th {
+  color: palevioletred;
+  padding: 10px 6px;
+  text-align: center;
+  border: 1px solid white;
+}
+
+td {
+  padding: 10px;
+  color: white;
+  border: 1px solid white;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h5,
+p {
+  color: white;
+}
+
+table {
+  border-color: white;
+}
+
+tr {
+  color: grey;
+}
+
+hr {
+  color: pink;
+  opacity: 0.5;
+}
